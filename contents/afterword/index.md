@@ -5,14 +5,12 @@ title: Afterword
 
 # Afterword
 
-We hope you enjoyed this introduction to HTML and CSS. For more information on web programming we recommend the following resources:
+We hope that this presentation and these resources has been helpful. Please feel free to contact Elissa Redmiles at eredmiles@cs.umd.edu or eanimals@comcast.net for help or more information.
 
-- [HTML Dog](http://www.htmldog.com/): HTML, CSS, and Javascript guides and tutorials
-- [Codecademy](http://www.codecademy.com/): Interactive tutorials in several programming languages
-
+This project was generously supported by an ACM Special Interest Group on Computing Education Special Project Grant and by the Maryland Center for Women in Computing.
 
 ---
 
-<a href="../span"><button type="button" class="btn btn-primary btn-lg">Back</button></a>
+<a href="../week7"><button type="button" class="btn btn-primary btn-lg">Back</button></a>
 
 ---

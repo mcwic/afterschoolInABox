@@ -18,6 +18,5 @@ title: After School In A Box
 ### Unit 2 (Weeks 5-8)
 1. [Week 5](./contents/week5)
 2. [Week 6](./contents/week6)
-3. [Week 7](./contents/week7)
-4. [Week 8](./contents/week8)
-5. [Afterword](./contents/afterword)
+3. [Weeks 7 & 8](./contents/week7)
+4. [Afterword](./contents/afterword)

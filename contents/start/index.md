@@ -1,96 +1,37 @@
 ---
 layout: main
-title: Images
+title: After School In A Box
 ---
 
-# Images
+## Do you want to start an after school computing program at your school?
 
-Everyone loves to share images online! With the `<img>` tag, you can put images in your own web pages! 
+Would you like your students to be able to: code a basic webpage, understand programming structures such as loops and conditionals, know what real computer scientsts look like and do?
 
-<br></br>
+if (answer == yes):
 
-<div class="row">
-  <div class="col-md-6">
+1. Read these slides
+2. Find students
+3. Get started
+4. Have fun!
 
-    <div class="panel panel-primary">
-      <div class="panel-heading">
-        <h3 class="panel-title">Code</h3>
-      </div>
-      <div class="panel-body">
-        <pre><code>&lt;!DOCTYPE html&gt;
-&lt;html&gt;
-
-  &lt;body&gt;
-    &lt;img src="umd_logo.png" height="100" width="100" &gt;
-  &lt;/body&gt;
-&lt;/html&gt;</code></pre>
-      </div>
-    </div>
-  
-  </div>
-  <div class="col-md-6">
-
-    <div class="panel panel-primary">
-      <div class="panel-heading">
-        <h3 class="panel-title">Result</h3>
-      </div>
-      <div class="panel-body">
-        <img src="umd_logo.png" height="100" width="100">
-      </div>
-    </div>
-
-  </div>
-</div>
 
 ---
 
-Combine links and images to turn your images into links!
+## What you need
+1. Yourself or another adult
+2. Students
+3. Space
+4. Computers (if you do not have access to computers but would like to teach your students computational thinking, check out <a href="http://csunplugged.org"> CS Unplugged</a>).
+5. A plan (keep reading)
+6. 4-8 Weeks*
 
-<div class="row">
-  <div class="col-md-6">
-
-    <div class="panel panel-primary">
-      <div class="panel-heading">
-        <h3 class="panel-title">Code</h3>
-      </div>
-      <div class="panel-body">
-        <pre><code>&lt;!DOCTYPE html&gt;
-&lt;html&gt;
-
-  &lt;body&gt;
-    &lt;h3&gt;Click me!&lt;/h3&gt;
-    &lt;a href="http://umd.edu"&gt;
-      &lt;img src="umd_logo.png" height="100" width="100"&gt;
-    &lt;/a&gt;
-  &lt;/body&gt;
-&lt;/html&gt;</code></pre>
-      </div>
-    </div>
-  
-  </div>
-  <div class="col-md-6">
-
-    <div class="panel panel-primary">
-      <div class="panel-heading">
-        <h3 class="panel-title">Result</h3>
-      </div>
-      <div class="panel-body">
-        <h3>Click me!</h3>
-        <a href="http://umd.edu"><img src="umd_logo.png" height="100" width="100"></a>
-      </div>
-    </div>
-
-  </div>
-</div>
+*Each 4 week block of lessons can stand alone, so you can pick and chose depending on your time constraints.
 
 ---
 
 <div class="row">
   <div class="col-md-1">
-    <a href="../lists"><button type="button" class="btn btn-primary btn-lg">Back</button></a>
-  </div>
-  <div class="col-md-1">
-    <a href="../color"><button type="button" class="btn btn-primary btn-lg">Next</button></a>
+    <a href="../week1"><button type="button" class="btn btn-primary btn-lg">Next</button></a>
   </div>
 </div>
 
