@@ -39,7 +39,7 @@ Time: 40 minutes
     <a href="../week5"><button type="button" class="btn btn-primary btn-lg">Back</button></a>
   </div>
   <div class="col-md-1">
-    <a href="../week6"><button type="button" class="btn btn-primary btn-lg">Next</button></a>
+    <a href="../week7"><button type="button" class="btn btn-primary btn-lg">Next</button></a>
   </div>
 </div>
 
