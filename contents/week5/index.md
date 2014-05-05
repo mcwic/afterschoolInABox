@@ -1,33 +1,47 @@
 ---
 layout: main
-title: Setting Up Your Tumblr Blog
+title: Week 5 - Exploring and Creating HTML webpages
 ---
 
-# Setting Up Your Tumblr Blog
+## Week 5 - Exploring and Creating HTML webpages
+Total Time: 60 minutes
 
-<ul>
-<li> Follow at least three blogs.</li>
+This week will be dedicated to students learning HTML and discovering their ability to create webpages.
 
-<img src="../tumblrStep2.png"/>
+Start off by showing students model webpages you may have created already or you found online. Then show them the code that created those webpages.
+They have probably never seen code before. Talk through the code line by line, discussing which line of code corresponds to something they see on the page. 
 
-<li> Reblog at least three posts.</li>
+Also try deleting part of the code and then running the page to see which, if any, errors occur, and how the web page looks without that piece of code.
 
-<li> When asked about getting the Tumblr app, select "I'll get it later"</li>
+---
+Time: 10 minutes
 
-<img src="../tumblrStep3.png"/>
+Explain the HTML, head, body, heading, paragraph, image and hyperlink tags to your students. 
 
-<li> Click "Customize" on the right panel.</li>
+You can use the videos available [here](https://www.youtube.com/playlist?list=PLPpkJJSKXEJ11Mq8xjty3AZKldH9V48mt). 
 
-<img src="../tumblrStep4.png"/>
+Follow up with any additional explaination that you think will be helpful. 
+
+--- 
+
+Time: 50 minutes
+
+Show students the website images available [here](http://mcwic.github.io/htmlblocks/htmlBuildingBlocks.html). Ask them to try to create the first website. Have students write their code in the <a href="http://www.w3schools.com/html/tryit.asp?filename=tryhtml_basic">W3 try-it editor</a>. 
+
+If you think your students will have trouble starting to write HTML code, have them write the code for the first goal website on paper. Go around the room to help them and identify errors. Alternately, you can pair students up and have them work on writing code on the computer together.
+
+Common student errors include missing or mis-matched closing tags and forgetting the '/' in a closing tag.
+
+Solutions to the goal websites are available [here](http://mcwic.github.io/htmlblocks/teacher_resources.html#top).
 
 ---
 
 <div class="row">
   <div class="col-md-1">
-    <a href="../start"><button type="button" class="btn btn-primary btn-lg">Back</button></a>
+    <a href="../week4"><button type="button" class="btn btn-primary btn-lg">Back</button></a>
   </div>
   <div class="col-md-1">
-    <a href="../theme"><button type="button" class="btn btn-primary btn-lg">Next</button></a>
+    <a href="../week6"><button type="button" class="btn btn-primary btn-lg">Next</button></a>
   </div>
 </div>
 
