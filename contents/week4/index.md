@@ -19,6 +19,7 @@ Allow each student to come up to the projector and present their project. If you
 Steps for the Next Unit: 
 
 Time: 10 minutes
+
 Show students this video:
 <a href="https://www.youtube.com/watch?v=cHLr3vCfgNo&list=PLPpkJJSKXEJ11Mq8xjty3AZKldH9V48mt&index=2">Introduction to HTML</a>
 & discuss any questions they might have. If you are not familiar with HTML you may want to read ahead in our <a href="http://mcwic.github.io/htmltutorial/">HTML Teacher Tutorial</a> and watch the full series of our [videos](http://www.youtube.com/playlist?list=PLPpkJJSKXEJ11Mq8xjty3AZKldH9V48mt) first.

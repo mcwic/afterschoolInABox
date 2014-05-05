@@ -14,8 +14,6 @@ Time: 5-10 minutes
 
 0. Ask the students if they worked on any Scratch projects while they were at home, if they did, allow them to present their work to the class. 
 
-Time: 5-10 minutes
-
 1. This week, have students complete the "they're like me!" Computer Scientist Library scavenger hunt available [here](http://mcwic.github.io/htmlblocks/teacher_resources.html#top) under Computer Scientist Library Projects & Assessments.
 
 --- 
@@ -42,9 +40,9 @@ Time: 25-35 minutes
 ---
 
 Potential Goal Projects:
-1. Ask students to create a <a href="http://scratch.mit.edu/projects/2425970/">scratch piano</a>. For students that finish early, urge them to create a drum kit, trombone, and other instruments. 
-2. Ask students to create "game" in which the cat follows the mouse and the dog chases after the cat, see our example <a href="http://scratch.mit.edu/projects/20478118/">here</a>. Challenge students to turn this into a game by keeping score for every time the cat and dog collide. <a href="http://www.teach-ict.com/programming/scratch/scratch_home.htm">Idea credit.</a>
-3. See <a href="http://www.teach-ict.com/programming/scratch/scratch_home.htm">here</a> for more scratch project ideas.
+1. Ask students to create a [scratch piano](http://scratch.mit.edu/projects/2425970/). For students that finish early, urge them to create a drum kit, trombone, and other instruments. 
+2. Ask students to create "game" in which the cat follows the mouse and the dog chases after the cat, see our example [here](http://scratch.mit.edu/projects/20478118/). Challenge students to turn this into a game by keeping score for every time the cat and dog collide. [Idea credit.](http://www.teach-ict.com/programming/scratch/scratch_home.htm)
+3. See [here](http://www.teach-ict.com/programming/scratch/scratch_home.htm) for more scratch project ideas.
 
 ---
 
