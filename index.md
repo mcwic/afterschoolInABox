@@ -7,7 +7,7 @@ title: After School In A Box
 
 ### Intro
 1. [Getting Started](./contents/start)
-2. [View this resources as a presentation](http://mcwic.github.io/outreachprogramhowto/#1)
+2. [View this resource as a presentation](http://mcwic.github.io/outreachprogramhowto/#1)
 
 ### Unit 1 (Weeks 1-4)
 1. [Week 1](./contents/week1)
