@@ -20,3 +20,5 @@ title: After School In A Box
 2. [Week 6](./contents/week6)
 3. [Weeks 7 & 8](./contents/week7)
 4. [Afterword](./contents/afterword)
+
+<a href="http://mcwic.github.io/htmlblocks"><button type="button" class="btn btn-primary btn-lg">Back to Curriculum In A Box</button></a>
