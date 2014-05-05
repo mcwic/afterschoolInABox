@@ -1,65 +1,38 @@
 ---
 layout: main
-title: Span
+title: Week 4 - Final Scratch Presentations & An Introduction to the Internet
 ---
 
-# Span
+## Week 4 - Final Scratch Presentations & An Introduction to the Internet
+Total Time: 60 minutes
 
-Now that you know the basics of CSS, we can introduce a new HTML tag! The `<span>` tag allows you to apply CSS in the middle of a line.
+This week will be students' chance to present their "big" scratch projects that they worked on at the last 1-2 sessions. Try to bring in parents or fun rewards (cupcakes, sunglasses, magnets, etc.) for the presentations.
 
-<br></br>
+At the end of the session, students will watch a short introduction to the internet video and introduce the concept of HTML. 
 
-<div class="row">
-  <div class="col-md-6">
+---
 
-    <div class="panel panel-primary">
-      <div class="panel-heading">
-        <h3 class="panel-title">Code</h3>
-      </div>
-      <div class="panel-body">
-        <pre><code>&lt;!DOCTYPE html&gt;
-&lt;html&gt;
-  &lt;head&gt;
-    &lt;title&gt;Links!&lt;/title&gt;
+Allow each student to come up to the projector and present their project. If you do not have access to a projector, have students gather around each other's computers.
 
-    &lt;style&gt;
-      .blue-txt{ color: blue }
-      .red-txt{ color: red }
-    &lt;/style&gt;
-  &lt;/head&gt;
+---
 
-  &lt;body&gt;
-    &lt;p&gt;Cherries are&lt;span class="red-txt"&gt;red&lt;/span&gt;.&lt;/p&gt;
-    &lt;p&gt;The ocean is&lt;span class="blue-txt"&gt;blue&lt;/span&gt;.&lt;/p&gt;
-  &lt;/body&gt;
-&lt;/html&gt;</code></pre>
-      </div>
-    </div>
-  
-  </div>
-  <div class="col-md-6">
+Steps for the Next Unit: 
 
-    <div class="panel panel-primary">
-      <div class="panel-heading">
-        <h3 class="panel-title">Result</h3>
-      </div>
-      <div class="panel-body">
-        <p>Cherries are <span style="color: red">red</span>.</p>
-        <p>The ocean is <span style="color: blue">blue</span>.</p>
-      </div>
-    </div>
+Time: 10 minutes
+Show students this video:
+<a href="https://www.youtube.com/watch?v=cHLr3vCfgNo&list=PLPpkJJSKXEJ11Mq8xjty3AZKldH9V48mt&index=2">Introduction to HTML</a>
+& discuss any questions they might have. If you are not familiar with HTML you may want to read ahead in our <a href="http://mcwic.github.io/htmltutorial/">HTML Teacher Tutorial</a> and watch the full series of our [videos](http://www.youtube.com/playlist?list=PLPpkJJSKXEJ11Mq8xjty3AZKldH9V48mt) first.
 
-  </div>
-</div>
+If you have extra time, direct students to the relevant web developer <a href="http://mcwic.github.io/htmlblocks/blandrolemodellibrary.html">computer scientist profiles</a>: System Administrator & Web Developer & IBM Web Guru.
 
 ---
 
 <div class="row">
   <div class="col-md-1">
-    <a href="../font"><button type="button" class="btn btn-primary btn-lg">Back</button></a>
+    <a href="../week3"><button type="button" class="btn btn-primary btn-lg">Back</button></a>
   </div>
   <div class="col-md-1">
-    <a href="../afterword"><button type="button" class="btn btn-primary btn-lg">Next</button></a>
+    <a href="../week5"><button type="button" class="btn btn-primary btn-lg">Next</button></a>
   </div>
 </div>
 
