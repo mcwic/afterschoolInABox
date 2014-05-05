@@ -3,7 +3,7 @@ layout: main
 title: Changing the Background Color
 ---
 
-## Week 1 - The Beginning: An Introduction to Scratch & Computer Scientists
+### Week 1 - The Beginning: An Introduction to Scratch & Computer Scientists
 Total Time: 60 minutes
 
 This week, start by introducing yourself and the field of computer science. If you are not a computer scientist, consider displaying one or two of the videos from the <a href="http://mcwic.github.io/htmlblocks/computerscientistlibrary.html">computer scientist library</a>.
@@ -11,8 +11,6 @@ This week, start by introducing yourself and the field of computer science. If y
 Then, get your students excited about programming by getting them started with <a href="http://scratch.mit.edu">Scratch programming</a>.
 
 ---
-
-## Week 1 (continued) - Introductions (Role Modeling)
 
 Time: 5 minutes
 
@@ -27,8 +25,6 @@ TIPS:
 
 ---
 
-## Week 1 (continued) - Introduction to Scratch
-
 Total Time: 55 minutes
 
 1. Introduce students to the Scratch platform. Direct them to <a href="http://scratch.mit.edu>scratch.mit.edu</a> and have them create an account.
@@ -37,8 +33,8 @@ Total Time: 55 minutes
 4. Allow the students free time to create and explore the Scratch interface. If you have students who are more reticent, provide them with goal projects such as those listed on the next slide.
 
 --- 
+Potential Goal Projects: 
 
-## Week 1 (continued) - Potential Goal Projects
 1. Have the sprite move around the screen visiting each corner of the screen and changing colors when it reaches a corner. [Example of this project.](http://scratch.mit.edu/projects/21656210/)
 2. Have the sprite follow the mouse. [Example of this project.](http://scratch.mit.edu/projects/21656523/)
 3. Many [additional projects](http://scratch.mit.edu/explore/?date=this_month) are available on the Scratch website with source code visible.
