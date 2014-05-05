@@ -1,23 +1,25 @@
 ---
 layout: main
-title: Tumblr Tutorial
+title: After School In A Box
 ---
 
-# Table of Contents
+# After School In A Box
 
-### Tumblr
-0. [Creating a Tumblr Account](./contents/start)
-1. [Setting up your Tumblr Blog](./contents/setup)
-1. [Adding the Theme Template](./contents/theme)
-2. [Changing the Background Color](./contents/backgroundcolor)
-3. [Headings](./contents/headings)
-4. [Links](./contents/links)
-5. [Lists](./contents/lists)
-6. [Images](./contents/images)
+### Intro
+<ul>
+<li>[Getting Started]()</li>
+<li>[View this resources as a presentation]()</li>
+</ul>
 
-### CSS
-1. [Color](./contents/color)
-2. [Text](./contents/text)
-3. [Font](./contents/font)
-4. [Span](./contents/span)
+### Unit 1 (Weeks 1-4)
+1. [Week 1]()
+2. [Week 2]()
+3. [Week 3]()
+4. [Week 4]()
+
+### Unit 2 (Weeks 5-8)
+1. [Week 5](./contents/color)
+2. [Week 6](./contents/text)
+3. [Week 7](./contents/font)
+4. [Week 8](./contents/span)
 5. [Afterword](./contents/afterword)
